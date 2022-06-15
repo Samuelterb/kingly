@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+/* header */
+
+.head{
+    background: red;
+    padding: 50px;
+}
+
+
+h2{
+    text-align: center;
+    color: cornsilk;
+}
+
+input{
+    padding: 15px;
+    width: 70%;
+    margin: 10px 50px;
+    font-size: x-large;
+}
+
+#smaller{
+    position: absolute;
+    top: 89px;
+    left: 74%;
+    padding: 15px;
+  width: 25%;
+  background: #d9d9d9;
+  color: #555;
+  float: left;
+  text-align: center;
+  font-size: 25px;
+  cursor: pointer;
+  transition: 0.3s;
+  border-radius: 0;
+
+}
+
+#smaller:hover{
+    background: darkgray;
+}
+
+/* section */
+
+
+ul li {
+    
+    list-style-type: none;
+    /* padding: 10px; */
+    /* width: 100%; */
+    font-size: xx-large;
+
+    
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+
+.list1{
+    background:blue;
+  padding: 20px;
+}
+.list1:hover{
+    background: gray;
+}
+.list2{
+    background:purple;
+  padding: 20px;
+}
+.list2:hover{
+    background: gray;
+}
+.list3{
+    background:peru;
+  padding: 20px;
+}
+.list3:hover{
+    background: gray;
+}
+.list4{
+    background:brown;
+  padding: 20px;
+}
+.list4:hover{
+    background: gray;
+}
+.list5{
+    background:burlywood;
+  padding: 20px;
+}
+.list5:hover{
+    background: gray;
+}
+.list6{
+    background:cadetblue;
+  padding: 20px;
+}
+.list6:hover{
+    background: gray;
+}
+.list7{
+    background:crimson;
+  padding: 20px;
+}
+.list7:hover{
+    background: gray;
+}
+
+.close{
+    position: absolute;
+    left:90%;
+    top:209px;
+    padding: 20px;
+    width: 70px;
+    text-align: center;
+   
+
+
+}
+
+.close:hover{
+    background: red;
+    cursor: pointer;
+}
+ .naso{
+    position: absolute;
+    left:90%;
+    top:287px;
+    padding: 20px;
+    width: 70px;
+    text-align: center;
+
+ } 
+ .naso:hover{
+    background: red;
+    cursor: pointer;
+ }
+ .abi{
+    position: absolute;
+    left:90%;
+    top:363px;
+    padding: 20px;
+    width: 70px;
+    text-align: center;
+
+ }   
+ .abi:hover{
+    background: red;
+    cursor: pointer;
+ }
+ .sabi{
+    position: absolute;
+    left:90%;
+    top:441px;
+    padding: 20px;
+    width: 70px;
+    text-align: center;
+
+ }
+
+ .sabi:hover{
+    background: red;
+    cursor: pointer;
+ }
+.lemme{
+    position: absolute;
+    left:90%;
+    top:519px;
+    padding: 20px;
+    width: 70px;
+    text-align: center;
+   
+}
+
+.lemme:hover{
+    background: red;
+    cursor: pointer;
+ }
+
+.wentin{
+    position: absolute;
+    left:90%;
+    top:596px;
+    padding: 20px;
+    width: 70px;
+    text-align: center;
+  
+}
+.wentin:hover{
+    background: red;
+    cursor: pointer;
+ }
+ .awfa{
+    position: absolute;
+    left:90%;
+    top:673px;
+    padding: 20px;
+    width: 70px;
+    text-align: center;
+ 
+ }
+
+ .awfa:hover{
+    background: red;
+    cursor: pointer;
+ }
+
+
+ 
+ 
+
